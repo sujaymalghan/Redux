@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Joy O'Kon",
+      "id": 2
+    },
+    {
+      "name": "Mathew Gutmann-Hauck",
+      "id": 3
+    },
+    {
+      "name": "Johnny Friesen",
+      "id": 4
+    },
+    {
+      "name": "Micheal Wilderman",
+      "id": 5
+    },
+    {
+      "name": "Nichole Goldner",
+      "id": 6
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
